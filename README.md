@@ -1,7 +1,9 @@
 frontent nanodegree mobile portfolio - website performance optimization
 
-The site can be used without further explanation just follow the links and/or use google pagerank
+Run the site by downloading the whole repository to your computer and open the index.html with your browser - as an Alternative use the github link:  http://oliverotto.github.io/frontend-nanodegree-mobile-portfolio
 
+Follow the links on the website and or use google page rank:
+https://developers.google.com/speed/pagespeed/
 
 Optimizations
 Minified CSS/HTML/JS
